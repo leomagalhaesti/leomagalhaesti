@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/leomagalhaesti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![leomagalhaesti GitHub stats](https://github-readme-stats.vercel.app/api?username=leomagalhaesti&show_icons=true&theme=dracula&count_private=true)
+![](https://github-trophies.vercel.app/?username=leomagalhaesti&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## Tecnologias que eu uso diariamente..
 
