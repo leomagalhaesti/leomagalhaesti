@@ -1,58 +1,80 @@
-## Olá! Eu sou o Leonardo Magalhães 🖐️
+<div align="center">
 
-**Técnico de T.I. · Automação operacional · Controle de ativos · Produtos digitais**
+# Leonardo Antônio Magalhães Gonçalves
 
-Atuo na Tecnologia da Informação da Mais Saúde, no centro de distribuição de Pirajá. Desenvolvo soluções para transformar processos manuais em fluxos simples, rastreáveis e fáceis de operar pelas equipes.
+### Técnico de T.I. · Automação Operacional · Produtos Digitais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomagalhaes__/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomagalhaes.ti@gmail.com)
-<a href="https://www.linkedin.com/in/leomagalhaesti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Transformando processos manuais em sistemas simples, rastreáveis e úteis para quem está no campo.
 
-![leomagalhaesti GitHub stats](https://github-readme-stats.vercel.app/api?username=leomagalhaesti&show_icons=true&theme=dracula&count_private=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomagalhaesti/)
+[![E-mail](https://img.shields.io/badge/E--mail-4A6FA5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomagalhaes.ti@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-5B6EAE?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomagalhaes__/)
 
-## Tecnologias que eu uso diariamente..
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div><br/>
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomagalhaesti&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leomagalhaesti&layout=compact&theme=dracula&hide_border=true)
+
+</div>
+
+## Stack & especialidades
+
+<div align="center">
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="RFID" src="https://img.shields.io/badge/RFID%20%26%20Rastreabilidade-4A6FA5?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img alt="Automação" src="https://img.shields.io/badge/Automação%20de%20Processos-72B875?style=for-the-badge&logo=workflow&logoColor=white"/>
+
+</div>
 
 ## Projetos em destaque
 
-### RFID System · Controle de ativos de T.I.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-MVP para rastrear equipamentos em mutirões, registrar PAT + modelo na saída e no retorno, identificar itens faltantes e gerar indicadores para a gestão.
+### RFID System
 
-### Cronograma TV · Operação do CD Pirajá
+Controle de ativos de T.I. para mutirões, com PAT, modelo, RFID, saída, retorno, login e dashboard executivo.
 
-Painel para TV e notebook espelhado, com agenda mensal, controle de campo, livro de bordo, SQLite, histórico e exportação para Excel/CSV.
+</td>
+<td width="33%" valign="top">
+
+### Cronograma TV
+
+Painel operacional para o CD Pirajá com agenda, controle de campo, SQLite, histórico e exportação.
+
+</td>
+<td width="33%" valign="top">
 
 ### Pet&Play
 
-Aplicativo voltado à socialização responsável de pets, encontros, segurança, saúde e compatibilidade entre animais e tutores.
+Produto digital para socialização responsável, segurança, saúde e encontros entre pets e tutores.
 
-## Especialidades
+</td>
+</tr>
+</table>
 
-<div style="display: inline_block">
-  <img align="center" alt="sqlite e modelagem de dados" src="https://img.shields.io/badge/SQLite%20%2B%20Modelagem%20de%20Dados-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img align="center" alt="automação de processos manuais" src="https://img.shields.io/badge/Automação%20de%20Processos%20Manuais-5B6EAE?style=for-the-badge&logo=workflow&logoColor=white"/>
-  <img align="center" alt="rfid e rastreabilidade" src="https://img.shields.io/badge/RFID%20%26%20Rastreabilidade-4A6FA5?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img align="center" alt="dashboards operacionais" src="https://img.shields.io/badge/Dashboards%20Operacionais-72B875?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+## Foco profissional
+
+`Processos manuais` · `Controle de estoque` · `Rastreabilidade` · `Dashboards` · `SQLite e modelagem de dados` · `UX operacional`
+
+<div align="center">
+
+### Construindo tecnologia para tornar a operação mais clara.
+
 </div>
 
-## Como eu trabalho
-
-- Entendo o processo real antes de escolher a tecnologia.
-- Registro o que aconteceu, não apenas o que estava planejado.
-- Priorizo clareza para quem opera no campo.
-- Evito apresentar estimativas como resultados comprovados.
-- Busco código simples, organizado e documentado.
-
-> Meus projetos-piloto podem conter código e ideias proprietárias. Consulte o `LICENSE` de cada repositório antes de reutilizar qualquer conteúdo.
+> Projetos-piloto podem conter código e ideias proprietárias. Consulte o `LICENSE` de cada repositório antes de reutilizar qualquer conteúdo.
