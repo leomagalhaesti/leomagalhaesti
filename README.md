@@ -16,14 +16,7 @@ Transformando processos manuais em soluções claras, rastreáveis e úteis para
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomagalhaesti&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leomagalhaesti&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
-## Stack & especialidades
-
-<div align="center">
+<img src="./assets/mission-control.svg" alt="Painel visual de projetos em desenvolvimento" width="900" />
 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
