@@ -19,6 +19,10 @@ Transformando processos manuais em sistemas simples, rastreáveis e úteis para 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomagalhaesti&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leomagalhaesti&layout=compact&theme=dracula&hide_border=true)
 
+<br>
+
+![Projetos em evolução](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=72B875&center=true&vCenter=true&width=520&lines=Projetos+em+desenvolvimento...;Construindo%2C+testando+e+melhorando...;Atualiza%C3%A7%C3%B5es+di%C3%A1rias+em+andamento...)
+
 </div>
 
 ## Stack & especialidades
@@ -39,13 +43,17 @@ Transformando processos manuais em sistemas simples, rastreáveis e úteis para 
 
 </div>
 
-## Projetos em destaque
+## Projetos em desenvolvimento
+
+> Estes projetos estão em evolução contínua. Funcionalidades, arquitetura e aparência podem mudar diariamente durante os ciclos de teste e validação.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### RFID System
+
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-72B875?style=flat-square&logo=git)
 
 Controle de ativos de T.I. para mutirões, com PAT, modelo, RFID, saída, retorno, login e dashboard executivo.
 
@@ -54,12 +62,16 @@ Controle de ativos de T.I. para mutirões, com PAT, modelo, RFID, saída, retorn
 
 ### Cronograma TV
 
+![Status](https://img.shields.io/badge/STATUS-PILOTO%20ATIVO-4A6FA5?style=flat-square&logo=sqlite&logoColor=white)
+
 Painel operacional para o CD Pirajá com agenda, controle de campo, SQLite, histórico e exportação.
 
 </td>
 <td width="33%" valign="top">
 
 ### Pet&Play
+
+![Status](https://img.shields.io/badge/STATUS-EM%20EVOLUÇÃO-5B6EAE?style=flat-square&logo=react&logoColor=white)
 
 Produto digital para socialização responsável, segurança, saúde e encontros entre pets e tutores.
 
