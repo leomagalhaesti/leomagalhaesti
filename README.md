@@ -30,7 +30,7 @@ Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que mot
 
 **Problema:** manter publicações constantes no LinkedIn exigia escrever, buscar imagem e postar manualmente todos os dias.
 
-**Solução:** pipeline no n8n que roda duas vezes por dia, escreve o post com IA, valida o texto, escolhe uma foto inédita, publica no LinkedIn e registra o histórico no Notion.
+**Solução:** pipeline no n8n que roda todos os dias, escreve o post com IA, valida o texto, escolhe uma foto inédita, publica no LinkedIn e registra o histórico no Notion.
 
 **Destaques técnicos:** saída estruturada do modelo com etapa de validação, histórico de fotos e temas para evitar repetição, upload binário de mídia para a API do LinkedIn.
 
