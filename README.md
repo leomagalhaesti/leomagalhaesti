@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:171A27,100:0E2026&text=Leonardo%20Magalh%C3%A3es&fontColor=F4F7F8&fontSize=42&fontAlignY=38&desc=T.I.%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Produtos%20Digitais&descAlignY=60&descSize=16" alt="Leonardo Magalhães — T.I., Automação e Produtos Digitais" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:171A27,100:0E2026&text=Leonardo%20Magalh%C3%A3es&fontColor=F4F7F8&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Produtos%20Digitais&descAlignY=60&descSize=16" alt="Leonardo Magalhães — Desenvolvedor Fullstack, Automação e Produtos Digitais" width="100%" />
 
-![Áreas de atuação](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=72B875&center=true&vCenter=true&width=640&lines=Automa%C3%A7%C3%A3o+de+processos+com+n8n+e+IA;Aplica%C3%A7%C3%B5es+web+em+React+%2B+TypeScript;Linux%2C+Docker+e+infraestrutura+em+VPS;Seguran%C3%A7a+da+informa%C3%A7%C3%A3o+e+suporte+de+T.I.)
+![Áreas de atuação](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=72B875&center=true&vCenter=true&width=640&lines=Desenvolvedor+Fullstack;Aplica%C3%A7%C3%B5es+web+em+React+%2B+TypeScript;Automa%C3%A7%C3%A3o+de+processos+com+n8n+e+IA;Linux%2C+Docker+e+infraestrutura+em+VPS;Ciberseguran%C3%A7a+com+Kali+Linux)
 
 Transformando processos manuais em soluções claras, rastreáveis e úteis para quem está no campo.
 
@@ -14,7 +14,7 @@ Transformando processos manuais em soluções claras, rastreáveis e úteis para
 
 ## Sobre mim
 
-Sou Leonardo Antônio Magalhães Gonçalves, técnico de T.I. em Salvador, Bahia. Trabalho na fronteira entre a operação e o desenvolvimento: identifico tarefas manuais que se repetem, desenho o fluxo e construo a ferramenta que resolve, seja uma automação, uma aplicação web ou um ajuste de infraestrutura.
+Sou Leonardo Antônio Magalhães Gonçalves, desenvolvedor fullstack em Salvador, Bahia. Construo software a partir de problemas reais da operação: identifico tarefas manuais que se repetem, desenho o fluxo e construo a ferramenta que resolve, seja uma automação, uma aplicação web ou um ajuste de infraestrutura.
 
 Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que motivou a solução, como ela foi construída e em que estágio está.
 
