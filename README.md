@@ -104,10 +104,7 @@ Produto digital para socialização responsável, segurança, saúde e encontros
 | **Infraestrutura** | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Segurança** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-263238?style=flat-square&logo=kalilinux&logoColor=white) |
 
-## Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## Contribuições
 
 <div align="center">
 
