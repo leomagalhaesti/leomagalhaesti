@@ -42,7 +42,7 @@ Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que mot
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Controle T.I.](https://github.com/leomagalhaesti/equipament-trakr)
+### 📦 [TrackPoint](https://github.com/leomagalhaesti/trackpoint)
 
 `PILOTO`
 
