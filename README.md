@@ -4,7 +4,7 @@
 
 ![Áreas de atuação](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=72B875&center=true&vCenter=true&width=640&lines=Desenvolvedor+Fullstack;Aplica%C3%A7%C3%B5es+web+em+React+%2B+TypeScript;Automa%C3%A7%C3%A3o+de+processos+com+n8n+e+IA;Linux%2C+Docker+e+infraestrutura+em+VPS;Ciberseguran%C3%A7a+com+Kali+Linux)
 
-Transformando processos manuais em soluções claras, rastreáveis e úteis para quem está no campo.
+Transformando problemas da operação em soluções claras, rastreáveis e úteis para quem está no campo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomagalhaesti/)
 [![E-mail](https://img.shields.io/badge/E--mail-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:leomagalhaes.ti@gmail.com)
@@ -14,7 +14,7 @@ Transformando processos manuais em soluções claras, rastreáveis e úteis para
 
 ## Sobre mim
 
-Sou Leonardo Antônio Magalhães Gonçalves, desenvolvedor fullstack em Salvador, Bahia. Construo software a partir de problemas reais da operação: identifico tarefas manuais que se repetem, desenho o fluxo e construo a ferramenta que resolve, seja uma automação, uma aplicação web ou um ajuste de infraestrutura.
+Sou Leonardo Antônio Magalhães Gonçalves, desenvolvedor fullstack em Salvador, Bahia. Construo software a partir de problemas reais da operação: identifico o que trava o trabalho, desenho o fluxo e construo a ferramenta que resolve, seja uma automação, uma aplicação web ou um ajuste de infraestrutura.
 
 Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que motivou a solução, como ela foi construída e em que estágio está.
 
