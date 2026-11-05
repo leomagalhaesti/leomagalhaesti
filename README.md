@@ -1,22 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:171A27,100:0E2026&text=Leonardo%20Magalh%C3%A3es&fontColor=F4F7F8&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Produtos%20Digitais&descAlignY=60&descSize=16" alt="Leonardo Magalhães — Desenvolvedor Fullstack, Automação e Produtos Digitais" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:171A27,100:0E2026&text=Leonardo%20Magalh%C3%A3es&fontColor=F4F7F8&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%C2%B7%20IA%20aplicada%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=16" alt="Leonardo Magalhães — Desenvolvedor Fullstack, IA aplicada e Automação" width="100%" />
 
-![Áreas de atuação](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=72B875&center=true&vCenter=true&width=640&lines=Desenvolvedor+Fullstack;Aplica%C3%A7%C3%B5es+web+em+React+%2B+TypeScript;Automa%C3%A7%C3%A3o+de+processos+com+n8n+e+IA;Linux%2C+Docker+e+infraestrutura+em+VPS;Ciberseguran%C3%A7a+com+Kali+Linux)
-
-Transformando problemas da operação em soluções claras, rastreáveis e úteis para quem está no campo.
+![Áreas de atuação](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=3DD9A4&center=true&vCenter=true&width=680&lines=Agentes+de+IA+que+trabalham+em+produ%C3%A7%C3%A3o;SaaS+de+atendimento+no+WhatsApp;Pipelines+de+v%C3%ADdeo+do+roteiro+%C3%A0+publica%C3%A7%C3%A3o;Python+%C2%B7+TypeScript+%C2%B7+n8n+%C2%B7+Docker;Linux%2C+VPS+e+observabilidade)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomagalhaesti/)
+[![Site](https://img.shields.io/badge/Site-1D6B4F?style=flat-square&logo=googlechrome&logoColor=white)](https://leomagalhaesti.github.io)
 [![E-mail](https://img.shields.io/badge/E--mail-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:leomagalhaes.ti@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-5B6EAE?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leomagalhaes__/)
+[![Instagram](https://img.shields.io/badge/Instagram-5B6EAE?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leo.maagalhaes/)
+
+</div>
+
+<div align="center">
+
+**🇧🇷 Português** · [🇺🇸 English](#-english)
 
 </div>
 
 ## Sobre mim
 
-Sou Leonardo Antônio Magalhães Gonçalves, desenvolvedor fullstack em Salvador, Bahia. Construo software a partir de problemas reais da operação: identifico o que trava o trabalho, desenho o fluxo e construo a ferramenta que resolve, seja uma automação, uma aplicação web ou um ajuste de infraestrutura.
+Sou desenvolvedor fullstack em Salvador, Bahia. Construo **sistemas que rodam sozinhos em produção**: atendentes de IA no WhatsApp, linhas de produção de vídeo, robôs que leem dados públicos e a infraestrutura que mantém tudo de pé numa VPS.
 
-Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que motivou a solução, como ela foi construída e em que estágio está.
+Gosto do problema real: o pet shop que perde cliente porque ninguém respondeu, a ONG que não sabe que existe verba para castração, o servidor que caiu sem ninguém perceber.
+
+## Como eu trabalho
+
+- **Produção primeiro:** cada sistema aqui roda de verdade, com dados e usuários reais, não só em demo
+- **IA com trava no código:** a IA escreve, o código confere. Números, preços e horários nunca ficam só por conta do modelo
+- **Observável:** logs, vigia e alerta no celular. Quando um robô para, eu fico sabendo antes do cliente
+- **Custo sob controle:** cascata de provedores de IA, teto de gasto mensal e cotas gratuitas usadas primeiro
+- **Seguro por padrão:** segredo fora do código, serviços escutando só local atrás de proxy, confirmação humana antes de ação destrutiva
+- **Medir antes de opinar:** versões trocadas por dado (retenção, conversão), não por gosto
+
+## Em números
+
+- **15 containers + 30 rotinas agendadas** em produção numa única VPS de 2 vCPU
+- **3 provedores de IA em cascata** (OpenAI → Gemini → Groq) com teto de gasto mensal
+- **417 cidades** cobertas pelo coletor de Diários Oficiais
+- **0 edição manual** entre o roteiro e o vídeo publicado
 
 ## Projetos em destaque
 
@@ -24,85 +45,89 @@ Este perfil é o meu portfólio. Cada projeto abaixo descreve o problema que mot
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [PostEngineAI](https://github.com/leomagalhaesti/Postengine-ai)
-
+### 🐾 [PataZap](https://github.com/leomagalhaesti/patazap)
 `EM PRODUÇÃO`
 
-**Problema:** manter publicações constantes no LinkedIn exigia escrever, buscar imagem e postar manualmente todos os dias.
+SaaS multi-cliente de **atendimento com IA no WhatsApp** para pet shops. Entende áudio, monta pedido de horário, passa para a equipe e implanta o cliente sozinho depois da compra.
 
-**Solução:** pipeline no n8n que roda todos os dias, escreve o post com IA, valida o texto, escolhe uma foto inédita, publica no LinkedIn e registra o histórico no Notion.
-
-**Destaques técnicos:** saída estruturada do modelo com etapa de validação, histórico de fotos e temas para evitar repetição, upload binário de mídia para a API do LinkedIn.
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+`Python` `n8n` `PostgreSQL` `Next.js` `Evolution API` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [TrackPoint](https://github.com/leomagalhaesti/trackpoint)
+### 🎬 [Fábrica de vídeos com IA](https://github.com/leomagalhaesti/fabrica-de-videos-ia)
+`EM PRODUÇÃO`
 
-`PILOTO`
+Do roteiro à publicação **sem edição manual**: IA escreve, código confere os números, motor anima quadro a quadro, IA assiste e reprova, e o aprendiz lê o YouTube Analytics.
 
-**Problema:** em períodos de alta demanda, a conferência de equipamentos de T.I. que entram e saem do Centro de Distribuição era feita à mão, antes do lançamento no sistema oficial.
-
-**Solução:** aplicação web para controle de estoque, preparação, conferência e retorno de equipamentos, publicada como site estático.
-
-**Destaques técnicos:** leitura e geração de QR Code, exportação de relatórios em PDF, validação de formulários com Zod e testes com Vitest.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Python` `Cairo` `FFmpeg` `Docker` `YouTube API`
 
 </td>
 </tr>
-</table>
-
-## Em desenvolvimento
-
-<div align="center">
-
-<img src="./assets/mission-control.svg" alt="Painel visual de projetos em desenvolvimento" width="900" />
-
-</div>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-### Cronograma TV
+### 🐶 [Cão de Guarda](https://github.com/leomagalhaesti/cao-de-guarda)
+`PROJETO SOCIAL`
 
-`PILOTO ATIVO`
+Robô que lê **Diários Oficiais** e licitações e acha castração grátis, ração e verba para ONGs. Encontrou R$ 1,2 mi+ na Bahia e castração de R$ 166 a R$ 624 entre prefeituras.
 
-Painel operacional para agenda, controle de campo, SQLite, histórico, PAT + modelo e exportação.
+`Python` `Dados abertos` `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-### Pet&Play
+### 💬 [Atendente de IA ao vivo](https://github.com/leomagalhaesti/atendente-ia-site)
+`NO AR`
 
-`EM EVOLUÇÃO`
+Site onde o visitante digita o nome do negócio e **conversa na hora** com uma atendente de IA criada para ele, num WhatsApp simulado.
 
-Produto digital para socialização responsável, segurança, saúde e encontros entre pets e tutores.
+`HTML/CSS/JS` `Python` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Ponte WhatsApp → Claude Code](https://github.com/leomagalhaesti/ponte-whatsapp-claude)
+`EM USO DIÁRIO`
+
+Comando um **agente de IA dentro do servidor** pelo WhatsApp, com filtro de remetente, URL secreta e confirmação antes de ações destrutivas.
+
+`Python` `Claude Code` `Webhooks`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐕 [Pet&Play](https://github.com/leomagalhaesti/pet-play-aplicativo)
+`PROTÓTIPO NO AR`
+
+App de socialização de pets com match, mapa de Pet Points, rotina de saúde e carteira de vacinação.
+
+`React` `TypeScript` `SQLite`
 
 </td>
 </tr>
 </table>
 
-<sub>Projetos-piloto mudam com frequência durante os ciclos de teste e ainda não têm repositório público.</sub>
+### Mais projetos
+
+| Projeto | O que é |
+|---|---|
+| [📊 Página de status da VPS](https://github.com/leomagalhaesti/vps-status-page) | Observabilidade leve sem dependências: containers, systemd, sites, alertas e logs |
+| [📱 Kit do Vendedor (PWA)](https://github.com/leomagalhaesti/kit-do-vendedor-pwa) | App offline para quem vende petisco caseiro: receitas, preço, pedidos e rótulos |
+| [🌡️ Termômetro de tokens](https://github.com/leomagalhaesti/claude-code-termometro) | Painel e barra de terminal com o gasto diário do Claude Code (MIT) |
+| [📦 TrackPoint](https://github.com/leomagalhaesti/trackpoint) | Controle de saída e retorno de equipamentos com QR Code e PDF |
 
 ## Stack
 
 | Área | Tecnologias |
 |---|---|
-| **Automação e IA** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![APIs REST](https://img.shields.io/badge/APIs_REST-263238?style=flat-square&logo=postman&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3C?style=flat-square&logo=auth0&logoColor=white) |
-| **Desenvolvimento** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) |
-| **Dados** | ![SQLite](https://img.shields.io/badge/SQLite_%2B_Modelagem-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white) |
-| **Infraestrutura** | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Segurança** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-263238?style=flat-square&logo=kalilinux&logoColor=white) |
+| **IA aplicada** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-111111?style=flat-square&logo=openai&logoColor=white) |
+| **Back-end e automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![APIs REST](https://img.shields.io/badge/APIs_REST_%26_Webhooks-263238?style=flat-square&logo=postman&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
+| **Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra** | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ## Contribuições
 
@@ -113,8 +138,27 @@ Produto digital para socialização responsável, segurança, saúde e encontros
   <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/leomagalhaesti/leomagalhaesti/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### Construindo tecnologia para tornar a operação mais clara.
-
 </div>
 
-> Projetos-piloto podem conter código e ideias proprietárias. Consulte o `LICENSE` de cada repositório antes de reutilizar qualquer conteúdo.
+---
+
+## 🇺🇸 English
+
+**Full-stack developer based in Salvador, Brazil · UTC−3.**
+
+I build **systems that run on their own in production**: AI receptionists on WhatsApp, video pipelines from script to upload, civic-tech robots that read public data, and the Linux/Docker infrastructure that keeps them alive on a single VPS.
+
+**How I work:** production first · AI output always checked by code · observable by default (logs, watchdogs, phone alerts) · cost-aware (provider fallback, monthly caps) · secure by default (secrets out of code, localhost services behind a reverse proxy, human confirmation before destructive actions) · decisions driven by metrics.
+
+| Project | In one line |
+|---|---|
+| [PataZap](https://github.com/leomagalhaesti/patazap) | Multi-tenant AI customer service SaaS on WhatsApp for pet shops, with self-service onboarding after checkout |
+| [AI video factory](https://github.com/leomagalhaesti/fabrica-de-videos-ia) | LLM writes → code fact-checks → frame-by-frame renderer → multimodal AI QA → scheduled upload → analytics-driven learning loop |
+| [Cão de Guarda](https://github.com/leomagalhaesti/cao-de-guarda) | Reads municipal Official Gazettes and procurement data to surface animal-welfare funding |
+| [Live AI receptionist](https://github.com/leomagalhaesti/atendente-ia-site) | Landing page where visitors chat instantly with an AI built for *their* business |
+| [WhatsApp → Claude Code bridge](https://github.com/leomagalhaesti/ponte-whatsapp-claude) | Operate a server-side coding agent from your phone, with strict sender filtering |
+| [VPS status page](https://github.com/leomagalhaesti/vps-status-page) | Zero-dependency observability: containers, systemd, HTTP checks, alerts and logs |
+
+---
+
+> Vários projetos são estudos de caso: mostram o que foi construído e como, sem o código proprietário. Consulte o `LICENSE` de cada repositório antes de reutilizar qualquer conteúdo.
