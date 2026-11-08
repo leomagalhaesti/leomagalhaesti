@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomagalhaesti/)
 [![Site](https://img.shields.io/badge/Site-1D6B4F?style=flat-square&logo=googlechrome&logoColor=white)](https://leomagalhaesti.github.io)
 [![E-mail](https://img.shields.io/badge/E--mail-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:leomagalhaes.ti@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-5B6EAE?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/leomagalhaesreserva/)
 
 </div>
 
