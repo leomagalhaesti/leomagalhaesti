@@ -23,15 +23,6 @@ Sou desenvolvedor fullstack em Salvador, Bahia. Construo **sistemas que rodam so
 
 Gosto do problema real: o pet shop que perde cliente porque ninguém respondeu, a ONG que não sabe que existe verba para castração, o servidor que caiu sem ninguém perceber.
 
-## Como eu trabalho
-
-- **Produção primeiro:** cada sistema aqui roda de verdade, com dados e usuários reais, não só em demo
-- **IA com trava no código:** a IA escreve, o código confere. Números, preços e horários nunca ficam só por conta do modelo
-- **Observável:** logs, vigia e alerta no celular. Quando um robô para, eu fico sabendo antes do cliente
-- **Custo sob controle:** cascata de provedores de IA, teto de gasto mensal e cotas gratuitas usadas primeiro
-- **Seguro por padrão:** segredo fora do código, serviços escutando só local atrás de proxy, confirmação humana antes de ação destrutiva
-- **Medir antes de opinar:** versões trocadas por dado (retenção, conversão), não por gosto
-
 ## Resultados
 
 - **R$ 1,2 mi+ em verba para proteção animal** encontrada nos Diários Oficiais de 417 cidades
@@ -46,6 +37,8 @@ Gosto do problema real: o pet shop que perde cliente porque ninguém respondeu, 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/leomagalhaesti/patazap"><img src="https://raw.githubusercontent.com/leomagalhaesti/patazap/main/assets/capa.png" alt="PataZap" width="100%" /></a>
+
 ### 🐾 [PataZap](https://github.com/leomagalhaesti/patazap)
 `EM PRODUÇÃO`
 
@@ -56,6 +49,22 @@ SaaS multi-cliente de **atendimento com IA no WhatsApp** para pet shops. Entende
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/leomagalhaesti/ponte-whatsapp-claude"><img src="https://raw.githubusercontent.com/leomagalhaesti/ponte-whatsapp-claude/main/assets/capa.png" alt="Agente de IA operado pelo WhatsApp" width="100%" /></a>
+
+### 🤖 [Agente de IA operado pelo WhatsApp](https://github.com/leomagalhaesti/ponte-whatsapp-claude)
+`EM USO DIÁRIO`
+
+Comando um **agente de IA dentro do servidor** pelo celular. Por padrão ele só lê; para mexer, abro uma janela de obra com snapshot antes, health check depois e **rollback automático**. Ação sem volta trava no código até eu confirmar.
+
+`Python` `Claude Code` `Hooks` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/leomagalhaesti/fabrica-de-videos-ia"><img src="https://raw.githubusercontent.com/leomagalhaesti/fabrica-de-videos-ia/main/assets/capa.png" alt="Fábrica de vídeos com IA" width="100%" /></a>
+
 ### 🎬 [Fábrica de vídeos com IA](https://github.com/leomagalhaesti/fabrica-de-videos-ia)
 `EM PRODUÇÃO`
 
@@ -64,19 +73,35 @@ Do roteiro à publicação **sem edição manual**: IA escreve, código confere 
 `Python` `Cairo` `FFmpeg` `Docker` `YouTube API`
 
 </td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/leomagalhaesti/termometro"><img src="https://raw.githubusercontent.com/leomagalhaesti/termometro/main/docs/hero-pro.png" alt="Termômetro para Claude Code" width="100%" /></a>
+
+### 🌡️ [Termômetro para Claude Code](https://github.com/leomagalhaesti/termometro)
+`À VENDA`
+
+Barra de status com os **limites oficiais do Claude Code**, previsão de quando acabam e aviso antes. Versão grátis com código aberto e versão Pro vendida na SkillHQ.
+
+`Python` `Claude Code` `CLI` `Zero dependências`
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/leomagalhaesti/cao-de-guarda"><img src="https://raw.githubusercontent.com/leomagalhaesti/cao-de-guarda/main/assets/capa.png" alt="Cão de Guarda" width="100%" /></a>
+
 ### 🐶 [Cão de Guarda](https://github.com/leomagalhaesti/cao-de-guarda)
 `PROJETO SOCIAL`
 
-Robô que lê **Diários Oficiais** e licitações e acha castração grátis, ração e verba para ONGs. Encontrou R$ 1,2 mi+ na Bahia e castração de R$ 166 a R$ 624 entre prefeituras.
+Robô que lê **Diários Oficiais** e licitações e acha castração grátis, ração e verba para ONGs. Encontrou **R$ 1,2 mi+** na Bahia e castração de R$ 166 a R$ 624 entre prefeituras.
 
 `Python` `Dados abertos` `Gemini`
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/leomagalhaesti/atendente-ia-site"><img src="https://raw.githubusercontent.com/leomagalhaesti/atendente-ia-site/main/assets/capa.png" alt="Atendente de IA ao vivo" width="100%" /></a>
 
 ### 💬 [Atendente de IA ao vivo](https://github.com/leomagalhaesti/atendente-ia-site)
 `NO AR`
@@ -84,28 +109,6 @@ Robô que lê **Diários Oficiais** e licitações e acha castração grátis, r
 Site onde o visitante digita o nome do negócio e **conversa na hora** com uma atendente de IA criada para ele, num WhatsApp simulado.
 
 `HTML/CSS/JS` `Python` `LLM`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [Ponte WhatsApp → Claude Code](https://github.com/leomagalhaesti/ponte-whatsapp-claude)
-`EM USO DIÁRIO`
-
-Comando um **agente de IA dentro do servidor** pelo WhatsApp. Por padrão ele só lê; para mexer, abro uma janela de obra com snapshot antes, health check depois e rollback automático. Ação sem volta trava no código até eu confirmar.
-
-`Python` `Claude Code` `Webhooks`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌡️ [Termômetro para Claude Code](https://github.com/leomagalhaesti/termometro)
-`À VENDA`
-
-Barra de status que mostra os **limites oficiais do Claude Code**, prevê quando vão acabar e avisa antes. Versão grátis com código aberto e versão Pro vendida na SkillHQ.
-
-`Python` `Claude Code` `CLI` `Zero dependências`
 
 </td>
 </tr>
@@ -119,6 +122,15 @@ Barra de status que mostra os **limites oficiais do Claude Code**, prevê quando
 | [📊 Página de status da VPS](https://github.com/leomagalhaesti/vps-status-page) | Observabilidade leve sem dependências: containers, systemd, sites, alertas e logs |
 | [📱 Kit do Vendedor (PWA)](https://github.com/leomagalhaesti/kit-do-vendedor-pwa) | App offline para quem vende petisco caseiro: receitas, preço, pedidos e rótulos |
 | [📦 TrackPoint](https://github.com/leomagalhaesti/trackpoint) | Controle de saída e retorno de equipamentos com QR Code e PDF |
+
+## Como eu trabalho
+
+- **Produção primeiro:** cada sistema aqui roda de verdade, com dados e usuários reais, não só em demo
+- **IA com trava no código:** a IA escreve, o código confere. Números, preços e horários nunca ficam só por conta do modelo
+- **Observável:** logs, vigia e alerta no celular. Quando um robô para, eu fico sabendo antes do cliente
+- **Custo sob controle:** cascata de provedores de IA, teto de gasto mensal e cotas gratuitas usadas primeiro
+- **Seguro por padrão:** segredo fora do código, serviços escutando só local atrás de proxy, confirmação humana antes de ação destrutiva
+- **Medir antes de opinar:** versões trocadas por dado (retenção, conversão), não por gosto
 
 ## Stack
 
@@ -154,11 +166,11 @@ I build **systems that run on their own in production**: AI receptionists on Wha
 | Project | In one line |
 |---|---|
 | [PataZap](https://github.com/leomagalhaesti/patazap) | Multi-tenant AI customer service SaaS on WhatsApp for pet shops, with self-service onboarding after checkout |
+| [WhatsApp → Claude Code bridge](https://github.com/leomagalhaesti/ponte-whatsapp-claude) | Operate a server-side coding agent from your phone: read-only by default, snapshot + health check + automatic rollback when changes are allowed |
 | [AI video factory](https://github.com/leomagalhaesti/fabrica-de-videos-ia) | LLM writes → code fact-checks → frame-by-frame renderer → multimodal AI QA → scheduled upload → analytics-driven learning loop |
+| [Termômetro for Claude Code](https://github.com/leomagalhaesti/termometro) | Status line with your official Claude Code limits and a forecast before they run out. Free version open source, Pro sold on SkillHQ |
 | [Cão de Guarda](https://github.com/leomagalhaesti/cao-de-guarda) | Reads municipal Official Gazettes and procurement data to surface animal-welfare funding |
 | [Live AI receptionist](https://github.com/leomagalhaesti/atendente-ia-site) | Landing page where visitors chat instantly with an AI built for *their* business |
-| [Termômetro for Claude Code](https://github.com/leomagalhaesti/termometro) | Status line with your official Claude Code limits and a forecast before they run out. Free version open source, Pro sold on SkillHQ |
-| [WhatsApp → Claude Code bridge](https://github.com/leomagalhaesti/ponte-whatsapp-claude) | Operate a server-side coding agent from your phone: read-only by default, snapshot + health check + automatic rollback when changes are allowed |
 | [VPS status page](https://github.com/leomagalhaesti/vps-status-page) | Zero-dependency observability: containers, systemd, HTTP checks, alerts and logs |
 
 ---
