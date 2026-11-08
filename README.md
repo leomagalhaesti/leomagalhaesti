@@ -116,7 +116,6 @@ App de socialização de pets com match, mapa de Pet Points, rotina de saúde e 
 |---|---|
 | [📊 Página de status da VPS](https://github.com/leomagalhaesti/vps-status-page) | Observabilidade leve sem dependências: containers, systemd, sites, alertas e logs |
 | [📱 Kit do Vendedor (PWA)](https://github.com/leomagalhaesti/kit-do-vendedor-pwa) | App offline para quem vende petisco caseiro: receitas, preço, pedidos e rótulos |
-| [🌡️ Termômetro de tokens](https://github.com/leomagalhaesti/claude-code-termometro) | Painel e barra de terminal com o gasto diário do Claude Code (MIT) |
 | [📦 TrackPoint](https://github.com/leomagalhaesti/trackpoint) | Controle de saída e retorno de equipamentos com QR Code e PDF |
 
 ## Stack
