@@ -163,6 +163,18 @@ I build **systems that run on their own in production**: AI receptionists on Wha
 
 **How I work:** production first · AI output always checked by code · observable by default (logs, watchdogs, phone alerts) · cost-aware (provider fallback, monthly caps) · secure by default (secrets out of code, localhost services behind a reverse proxy, human confirmation before destructive actions) · decisions driven by metrics.
 
+**Highlights**
+
+- **R$ 1.2M+ (≈ US$ 220k) in animal-welfare public funding** found across the Official Gazettes of 417 cities
+- **A product on sale in an international marketplace:** Termômetro, with a free and a paid version
+- **4 video channels publishing daily**, from script to upload, with no manual editing
+- **An AI agent I operate from my phone:** read-only by default, destructive actions blocked in code, automatic rollback
+- **AI cost under control:** 3 providers in a fallback chain (OpenAI → Gemini → Groq) with a monthly spending cap
+
+**Try it live:** [AI receptionist demo](https://leomagalhaesti.github.io) · [PataZap demo](https://patazap.netlify.app/demo)
+
+**Stack:** Python · TypeScript · JavaScript · React · Next.js · Node.js · n8n · REST APIs · webhooks · OpenAI · Gemini · Claude · Whisper · PostgreSQL · SQLite · Redis · Linux · Docker · Traefik · FFmpeg · Git
+
 | Project | In one line |
 |---|---|
 | [Termômetro for Claude Code](https://github.com/leomagalhaesti/termometro) | Status line with your official Claude Code limits and a forecast before they run out. Free version open source, Pro sold on SkillHQ |
@@ -176,3 +188,5 @@ I build **systems that run on their own in production**: AI receptionists on Wha
 ---
 
 > Vários projetos são estudos de caso: mostram o que foi construído e como, sem o código proprietário. Consulte o `LICENSE` de cada repositório antes de reutilizar qualquer conteúdo.
+>
+> *EN: Several projects are case studies: they show what was built and how, without the proprietary source code. Check each repository's `LICENSE` before reusing any content.*
